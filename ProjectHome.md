@@ -1,0 +1,1 @@
+The ultimate user friendly customization add-on for Firefox. Puts the power in the average user's hands to customize the browser's look.
